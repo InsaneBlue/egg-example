@@ -1,0 +1,256 @@
+{
+  "keys": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\config\\config.default.js"
+    },
+    "root": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-multipart\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.default.js",
+    "cache": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg-view-nunjucks\\config\\config.local.js"
+  },
+  "env": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "egg-view-nunjucks": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\Users\\liuxiaoqi\\Desktop\\egg-example\\node_modules\\egg\\config\\config.default.js"
+}

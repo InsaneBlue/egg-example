@@ -1,0 +1,4 @@
+2018-09-21 15:04:38,487 INFO 15920 [Timer] C:\Users\liuxiaoqi\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-09-22 00:00:00.000
+2018-09-21 15:04:38,487 INFO 15920 [Timer] C:\Users\liuxiaoqi\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-09-22 00:00:01.000
+2018-09-28 17:14:58,786 INFO 1176 [Timer] C:\Users\liuxiaoqi\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute at 2018-09-29 00:00:00.000
+2018-09-28 17:14:58,786 INFO 1176 [Timer] C:\Users\liuxiaoqi\Desktop\egg-example\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute at 2018-09-29 00:00:01.000
