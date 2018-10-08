@@ -1,27 +1,13 @@
-exports.keys = 'abcdefghijklmnopqrst';
+'use strict';
 
-// 添加 view 配置
-exports.view = {
-	defaultViewEngine: 'nunjucks',
-	mapping: {
-		'.tpl': 'nunjucks',
-	},
-};
+module.exports = appInfo => {
+  const config = exports = {};
 
-// 添加 news 的配置项
-exports.news = {
-  pageSize: 5,
-  serverUrl: 'https://hacker-news.firebaseio.com/v0',
-};
+  // use for cookie sign key, should change to your own and keep security
+  config.keys = appInfo.name + '_1538286823497_252';
 
-// 增加中间件 robot
-exports.middleware = [
-  'robot'
-];
+  // add your config here
+  config.middleware = [];
 
-exports.robot = {
-  ua: [
-		/curl/i,
-    /Baiduspider/i,
-  ]
+  return config;
 };
